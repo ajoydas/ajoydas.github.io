@@ -1,5 +1,6 @@
 ---
 name:  BUET Radio Android App
+type: hobby
 tools: [Android, Java]
 image: ../assets/img/buetradio.jpg 
 description: <ul>

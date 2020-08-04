@@ -2,11 +2,11 @@
 title               : Ajoy Das
 description         : >-
                       Software Engineer,
-                      Chainsafe Systems.
+                      Chainsafe Systems
                       Graduate Research Assistant,
-                      BUET.
+                      BUET
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -21,6 +21,9 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - pages/favs.md
+  - pages/projects/professional.md
+  - pages/projects/hobby.md
+  - pages/projects/coursework.md
 
 
 ### Author Info ###

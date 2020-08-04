@@ -1,5 +1,6 @@
 ---
 name:  Contest Reminder Chatbot
+type: hobby
 tools: [Alexa, Dialogflow, AWS, Python, Crawling, Serverless]
 image: ../assets/img/contestreminder.png 
 description: <ul>
