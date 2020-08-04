@@ -20,6 +20,7 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/favs.md
 
 
 ### Author Info ###
@@ -28,7 +29,7 @@ author:
   image             : assets/img/main.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : ajoy@ajoydas.com
 #  facebook          : your_username
   github            : ajoydas
 # gitlab            : your_username
@@ -83,4 +84,3 @@ defaults:
 ### Exclude from processing ###
 exclude:
   - "*.log"
-  - "_projects/archieve/**"
