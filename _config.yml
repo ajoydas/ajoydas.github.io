@@ -28,7 +28,7 @@ author:
   image             : assets/img/main.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : ajoy@ajoydas.com
 #  facebook          : your_username
   github            : ajoydas
 # gitlab            : your_username
@@ -83,4 +83,3 @@ defaults:
 ### Exclude from processing ###
 exclude:
   - "*.log"
-  - "_projects/archieve/**"
