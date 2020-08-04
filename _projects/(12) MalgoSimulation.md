@@ -1,5 +1,6 @@
 ---
-name: Malgo Simulation 
+name: Malgo Simulation
+type: coursework 
 tools: [C++, IGraphics]
 image: ../assets/img/malgo.bmp 
 description: A math and algorithm simulation project built using C++'s graphics library IGraphics  

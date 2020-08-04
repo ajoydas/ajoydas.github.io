@@ -1,5 +1,6 @@
 ---
 name:  Websites and Systems for CSE Festival 2019, BUET
+type: professional
 tools: [Django, HTML, JS, Python, AWS]
 image: ../assets/img/festwebsite.png 
 description: <ul>

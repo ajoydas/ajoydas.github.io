@@ -1,5 +1,6 @@
 ---
 name:  Balloon Shooter
+type: coursework
 tools: [Assembly, GUI Turbo Assembler]
 image: ../assets/img/balloonshooter.jpg 
 description: The balloon shooter game is developed using intel 8086 assembly language

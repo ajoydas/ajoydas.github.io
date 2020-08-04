@@ -1,5 +1,6 @@
 ---
-name: File Explorer 
+name: File Explorer
+type: coursework
 tools: [Java, JavaFx, Design Pattern]
 image: ../assets/img/fileexplorer.jpg 
 description: A graphical user interface that can show all the files in any directory and supports two different style of viewing the files.

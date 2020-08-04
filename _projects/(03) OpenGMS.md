@@ -1,5 +1,6 @@
 ---
 name:  OpenGMS - An Open Source Garments Management System
+type: hobby
 tools: [Django, ML, HTML, JS, Python, Heroku, AWS]
 image: ../assets/img/opengms.png 
 description: <ul>
