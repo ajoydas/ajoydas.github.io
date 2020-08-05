@@ -20,7 +20,6 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/favs.md
   - pages/projects/professional.md
   - pages/projects/hobby.md
   - pages/projects/coursework.md
@@ -66,9 +65,9 @@ disqus: your-short-name-disqus                          # Your website Shortname
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: UA-77156747-3
 
 
 ### Defaults for collections ###
