@@ -7,7 +7,9 @@ weight: 10
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:<br>
+Hi I am **Ajoy** :wave:<br>
+Doing my MSc. in CSE @ BUET. Working as a full-time software engineer 
+as well as part-time research assistant.
 
 <!---
 <div class="row">

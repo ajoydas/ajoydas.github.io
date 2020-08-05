@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 weight: 1
 ---
+<br/>
 
 ## **Research**
 ### Interests
@@ -15,3 +16,9 @@ weight: 1
 - Blockchain research
 - Privacy research
 
+<br/>
+### Experience
+- Completed some research projects (Papers are under review)
+- Working on some on-going projects
+- Working as a **Graduate Research Assistant** at **Bangladesh University of 
+  Engineering & Technology** under **Innovation Fund**
