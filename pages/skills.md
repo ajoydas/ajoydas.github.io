@@ -4,11 +4,12 @@ title: Skills
 permalink: /skills/
 weight: 4
 ---
+<br/>
 
 ### **Skills**
 - Android app development and Android security
 - Linux Server configuration, task automation, security testing
-- Blockchain-based technology development 
+- Blockchain-based technology development and deployment
 - Machine Learning and Deep learning based system implementation, Chatbots development
 - Full-stack web development, website crawling
 - Cloud computing, cloud-based system deployment
