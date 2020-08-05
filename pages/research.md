@@ -18,6 +18,7 @@ weight: 1
 
 <br/>
 ### Experience
-- Working on several research projects some of  which are under review.
-- Working as a Graduate Research Assistant at Bangladesh University of 
-  Engineering & Technology.
+- Completed some research projects (Papers are under review)
+- Working on some on-going projects
+- Working as a **Graduate Research Assistant** at **Bangladesh University of 
+  Engineering & Technology** under **Innovation Fund**
