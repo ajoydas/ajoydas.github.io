@@ -17,7 +17,7 @@ external_url:
 <div style="text-align: center;" class="row">
 <div class="col-md-8">
 <br/>
-<iframe src="https://drive.google.com/file/d/0B51-hc5A2ylNVUJJNk03Y0lEb1k/preview" width="600" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B51-hc5A2ylNVUJJNk03Y0lEb1k/preview" width="100%" height="480"></iframe>
 </div>
 
 <div class="col-md-4">
