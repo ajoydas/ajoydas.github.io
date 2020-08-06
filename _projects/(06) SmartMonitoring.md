@@ -3,7 +3,8 @@ name:  Smart Monitoring and Control System for Transporting Question Papers
 type: coursework
 tools: [Arduino Mega, Sim808, Electric Door Lock, Keypad, Django]
 image: ../assets/img/smartmonitoring.png 
-description:
+description: Designed and developed for providing security while transporting
+             question papers as well as other important packages.
 external_url:  
 ---
 ### **{{page.name}}**

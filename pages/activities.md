@@ -7,9 +7,9 @@ weight: 6
 <br/>
 
 ## **Activities**
-I love to learn about new technologies. Sometimes, I find my self studying 
+I love to learn new technologies. Sometimes, I find my self studying 
 topics that I might never use :grin:. Anyway, here I have added some of the things that 
-I enjoyed :ok_hand:.
+I enjoyed learning :ok_hand:.
 
 ### Books
 - **Designing Data-Intensive Applications** / Martin Kleppmann **
