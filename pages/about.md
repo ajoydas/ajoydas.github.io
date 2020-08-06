@@ -12,7 +12,7 @@ as well as part-time research assistant.
 <br/>
 
 **Contact**:
-- [ajoy@ajoydas.com](ajoy@ajoydas.com)
+- [ajoydas1996@gmail.com](ajoydas1996@gmail.com)
 - [ajoy@chainsafe.io](ajoy@chainsafe.io) (Work)
 
 <div class="row">
