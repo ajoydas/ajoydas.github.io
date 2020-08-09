@@ -11,10 +11,10 @@ weight: 1
 <div class="row">
     <div class="col-md-6">
     <ul>
-        <li>Machine learning</li>
-        <li>Software engineering</li>
         <li>System security</li>
         <li>Networking and network security</li>
+        <li>Machine learning</li>
+        <li>Software engineering</li>
     </ul>
     </div>
     <div class="col-md-6">
