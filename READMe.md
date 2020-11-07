@@ -1,1 +1,2 @@
-https://youssefraafatnasry.me/portfolYOU/docs/
+### To Develope
+- Run `bundle exec jekyll serve --watch`
