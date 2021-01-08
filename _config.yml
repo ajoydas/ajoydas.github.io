@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : Ajoy Das
 description         : >-
-                      Software Developer,
-                      ChainSafe Systems
-                      Graduate Research Assistant,
-                      BUET
+                      Graduate Research & Teaching Assistant,
+                      Data Intensive Software Analytics Lab,
+                      University of Calgary
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -29,19 +28,20 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Ajoy Das
   image             : assets/img/main.jpg
-#  behance           : your_username
-# dribbble          : your_username
   email             : ajoyd.mail@gmail.com
-#  facebook          : your_username
+  scholar           : user=X075TgkAAAAJ
   github            : ajoydas
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : ajoy-das
+  stackoverflow     : 5532676
+  #  behance           : your_username
+  # dribbble          : your_username
+  #  facebook          : your_username
+  # gitlab            : your_username
+  # instagram         : your_username
+  # kaggle            : your_username
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
-  stackoverflow     : 5532676
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
 #  twitter           : ajoydas079

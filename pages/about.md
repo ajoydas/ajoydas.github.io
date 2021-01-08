@@ -7,13 +7,12 @@ weight: 10
 ## **About Me**
 
 Hi I am **Ajoy** :wave:<br>
-Working as a full-time software engineer 
-as well as part-time graduate research assistant.
-<br/>
+Working as Graduate Research and Teaching Assistant 
+at University of Calgary  
 
 **Contact**:
 - [ajoyd.mail@gmail.com](ajoyd.mail@gmail.com)
-- [ajoy@chainsafe.io](ajoy@chainsafe.io) (Work)
+- [ajoy.das@ucalgary.io](ajoy.das@ucalgary.ca) (Academic)
 
 <div class="row">
 {% include about/timeline.html %}

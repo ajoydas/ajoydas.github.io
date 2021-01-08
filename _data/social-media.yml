@@ -56,6 +56,11 @@ soundcloud:
   icon  : fab fa-soundcloud
   color : ff8800
 
+scholar:
+  url: https://scholar.google.com/citations?hl=en&
+  icon: fab fa-google
+  color: 1db954
+
 spotify:
   url   : https://open.spotify.com/user/
   icon  : fab fa-spotify
