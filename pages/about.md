@@ -12,7 +12,7 @@ at University of Calgary
 
 **Contact**:
 - [ajoyd.mail@gmail.com](ajoyd.mail@gmail.com)
-- [ajoy.das@ucalgary.io](ajoy.das@ucalgary.ca) (Academic)
+- [ajoy.das@ucalgary.ca](ajoy.das@ucalgary.ca) (Academic)
 
 <div class="row">
 {% include about/timeline.html %}
