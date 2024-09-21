@@ -7,12 +7,12 @@ weight: 10
 ## **About Me**
 
 Hi I am **Ajoy** :wave:<br>
-Working as Graduate Research and Teaching Assistant 
-at University of Calgary  
+Working as Senior Software Developer 
+at [Farmers Edge](https://farmersedge.ca/).  
 
 **Contact**:
-- [ajoyd.mail@gmail.com](ajoyd.mail@gmail.com)
-- [ajoy.das@ucalgary.ca](ajoy.das@ucalgary.ca) (Academic)
+- [ajoy@ajoydas.com](ajoy@ajoydas.com)
+- [ajoy.das@farmersedge.ca](ajoy.das@farmersedge.ca) (Work)
 
 <div class="row">
 {% include about/timeline.html %}

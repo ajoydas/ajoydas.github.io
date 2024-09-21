@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Ajoy Das
 description         : >-
-                      Graduate Research & Teaching Assistant,
-                      Data Intensive Software Analytics Lab,
-                      University of Calgary
+                      Senior Software Developer,
+                      Web services and Data warehouse Team,
+                      Farmers Edge
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -28,7 +28,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Ajoy Das
   image             : assets/img/main.jpg
-  email             : ajoyd.mail@gmail.com
+  email             : ajoy@ajoydas.com
   scholar           : user=X075TgkAAAAJ
   github            : ajoydas
   linkedin          : ajoy-das

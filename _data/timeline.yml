@@ -1,10 +1,34 @@
+- title: Senior Software Developer, <br/>Farmers Edge
+  location: Calgary, Alberta, Canada
+  from: Apr 2024
+  description: Leading various backend projects as well as working on the various AI/ML initiatives.
+
+
+- title: Software Developer, <br/>Farmers Edge
+  location: Calgary, Alberta, Canada
+  from: Aug 2023
+  to: Mar 2024
+  description: Worked on the web services and data warehouse projects.
+
+
+- title: Graduate Research Assistant,
+    <br/>University of Calgary
+  location: Calgary, Alberta, Canada
+  from: Mar 2023
+  to: Jul 2023
+  description:
+    In <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, <br/>
+    Dept. of Electrical & Computer Engineering, <br/>
+    Schulich School of Engineering, <br/>
+
 
 - title: Graduate Research and Teaching Assistant,
     <br/>University of Calgary
   location: Calgary, Alberta, Canada
   from: Jan 2021
+  to: Feb 2023
   description:
-    Studying M.Sc in Electrical and Computer Engineering (Specialization in Software Engineering), <br/>
+    Studied M.Sc in Electrical and Computer Engineering (Specialization in Software Engineering), <br/>
     <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, <br/>
     Dept. of Electrical & Computer Engineering, <br/>
     Schulich School of Engineering, <br/>
@@ -14,21 +38,21 @@
 - title: Software Developer, <br/>ChainSafe Systems
   location: "Office: Toronto, ON, Canada
              <br/>Worked remotely from: Dhaka, Bangladesh"
-  from: May, 2019
-  to: Dec, 2020
+  from: May 2019
+  to: Dec 2020
   description: Built scalable microservice based web services,
                <br/> Automated Blockchain based system deployment,
                <br/> Worked in a great multi-cultural team (developers from Canada, India, Russia, USA, South Africa, etc).
 
 - title: Graduate Research Assistant, <br/>Bangladesh University of Engineering & Technology
   location: Dhaka, Bangladesh
-  from: Dec, 2019
-  to: June, 2020
+  from: Dec 2019
+  to: June 2020
   description: Dept. of Computer Science & Engineering, <br/>
     Supervised By- <a href="http://mshohrabhossain.buet.ac.bd/">Dr. Md. Shohrab Hossain</a>, Professor
 
 - title: Undergraduate Student, <br/>Bangladesh University of Engineering & Technology
   location: Dhaka, Bangladesh
-  from: Feb, 2015
-  to: Apr, 2019
+  from: Feb 2015
+  to: Apr 2019
   description: Dept. of Computer Science & Engineering
