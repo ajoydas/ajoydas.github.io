@@ -10,3 +10,9 @@ Gemfile.lock
 
 # Log Files
 *.log
+# Design Files
+*.psd
+*.ai
+
+# IntelliJ
+.idea
