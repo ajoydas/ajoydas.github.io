@@ -6,7 +6,8 @@ description         : >-
                       Farmers Edge
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -33,20 +34,20 @@ author:
   github            : ajoydas
   linkedin          : ajoy-das
   stackoverflow     : 5532676
+  medium            : dasajoy
   #  behance           : your_username
   # dribbble          : your_username
   #  facebook          : your_username
   # gitlab            : your_username
   # instagram         : your_username
   # kaggle            : your_username
-#  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-#  twitter           : ajoydas079
-# vimeo             : your_username
-# youtube           : your_channel_name
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  # twitter           : ajoydas079
+  # vimeo             : your_username
+  # youtube           : your_channel_name
 
 
 ### Posts ###
@@ -60,14 +61,14 @@ collections:
     permalink: /projects/:name
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+#disqus: your-short-name-disqus                          # Your website Shortname on disqus
 
 
 ### Analytics ###
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: UA-77156747-3
+    tracking_id: G-3BD4D1PDK3
 
 
 ### Defaults for collections ###
@@ -86,3 +87,4 @@ defaults:
 ### Exclude from processing ###
 exclude:
   - "*.log"
+  - README.md
