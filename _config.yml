@@ -1,13 +1,15 @@
 ### Site Settings ###
 title               : Ajoy Das
 description         : >-
-                      Senior Software Developer, <br/>
-                      Web services and Data warehouse Team, <br/>
-                      Farmers Edge
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : ajoydas    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
+                      <b>Senior Software Developer</b> <br/>
+                      Web services and Data warehouse Team <br/>
+                      Farmers Edge, Canada 🇨🇦 <br/>
+                      🧑‍💻‍ <b>Google Cloud Certified Professional </b> <br/>
+                      🧑‍💻 <b>Okta Certified Developer</b>
+baseurl             : ""                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : ajoydas                 # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
 remote_theme        : yousinix/portfolYOU
-open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : false                   # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -86,5 +88,6 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
+  - .idea/workspace.xml
   - "*.log"
   - README.md

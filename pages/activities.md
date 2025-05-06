@@ -10,6 +10,7 @@ weight: 6
 I love to learn new technologies. Sometimes, I find my self studying 
 topics that I might never use :grin:. Anyway, here I have added some of the things that 
 I enjoyed learning :ok_hand:.
+<br/>
 
 ### Books
 - **Designing Data-Intensive Applications** / Martin Kleppmann **

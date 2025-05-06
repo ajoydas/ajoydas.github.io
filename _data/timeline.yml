@@ -1,20 +1,20 @@
-- title: Senior Software Developer, <br/>Farmers Edge
-  location: Calgary, Alberta, Canada
+- title: Senior Software Developer (Remote), <br/>Farmers Edge
+  location: Calgary, AB, Canada
   from: Apr 2024
   description: Leading various backend projects as well as working on the various AI/ML initiatives.
 
 
-- title: Software Developer, <br/>Farmers Edge
-  location: Calgary, Alberta, Canada
+- title: Software Developer (Remote), <br/>Farmers Edge
+  location: Calgary, AB, Canada
   from: Aug 2023
   to: Mar 2024
   description: Worked on the web services and data warehouse projects.
 
 
-- title: Graduate Research Assistant,
+- title: Software Engineering Researcher,
     <br/>University of Calgary
-  location: Calgary, Alberta, Canada
-  from: Mar 2023
+  location: Calgary, AB, Canada
+  from: Jan 2021
   to: Jul 2023
   description:
     In <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, <br/>
@@ -24,7 +24,7 @@
 
 - title: Graduate Research and Teaching Assistant,
     <br/>University of Calgary
-  location: Calgary, Alberta, Canada
+  location: Calgary, AB, Canada
   from: Jan 2021
   to: Feb 2023
   description:
@@ -35,9 +35,8 @@
     Supervised By- <a href="https://giasuddin.ca">Dr. Gias Uddin</a>, Assistant Professor.
 
 
-- title: Software Developer, <br/>ChainSafe Systems
-  location: "Office: Toronto, ON, Canada
-             <br/>Worked remotely from: Dhaka, Bangladesh"
+- title: Software Developer (Remote), <br/>ChainSafe Systems
+  location: Toronto, ON, Canada
   from: May 2019
   to: Dec 2020
   description: Built scalable microservice based web services,
@@ -51,8 +50,8 @@
   description: Dept. of Computer Science & Engineering, <br/>
     Supervised By- <a href="http://mshohrabhossain.buet.ac.bd/">Dr. Md. Shohrab Hossain</a>, Professor
 
-- title: Undergraduate Student, <br/>Bangladesh University of Engineering & Technology
-  location: Dhaka, Bangladesh
-  from: Feb 2015
-  to: Apr 2019
-  description: Dept. of Computer Science & Engineering
+#- title: Undergraduate Student, <br/>Bangladesh University of Engineering & Technology
+#  location: Dhaka, Bangladesh
+#  from: Feb 2015
+#  to: Apr 2019
+#  description: Dept. of Computer Science & Engineering

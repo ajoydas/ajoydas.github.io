@@ -16,3 +16,4 @@ Gemfile.lock
 
 # IntelliJ
 .idea
+.DS_Store
