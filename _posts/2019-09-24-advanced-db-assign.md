@@ -3,7 +3,7 @@ title: Performance Comparison of SQL vs NoSQL- A case study
 tags: [database, oracle, mongodb, sql, nosql]
 style: border 
 color: info 
-description: Discussion of the term assignment of CSE-6601​ (Advanced Database) course 
+description: Discussion of the term assignment of CSE-6601 (Advanced Database) course 
              where the data model for an Airline Reservation System was used 
 ---
 <a class="github-button" href="https://github.com/ajoydas/AdvancedDB" data-size="large" aria-label="View ajoydas/AdvancedDB on GitHub">View Source Code on Github</a>
