@@ -5,11 +5,11 @@ permalink: /about/
 weight: 12
 ---
 
-Hi I am **Ajoy** :wave:
+Hi, I am **Ajoy** :wave:
 Working as Senior Software Developer 
 at [Farmers Edge](https://farmersedge.ca/).  
 
-Please connect with me on LinkedIn or send an email at [ajoy@ajoydas.com](ajoy@ajoydas.com).
+Please connect with me on [LinkedIn](https://linkedin.com/in/ajoy-das) or send an email at [ajoy@ajoydas.com](ajoy@ajoydas.com).
 <br/>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="ajoy-das" data-version="v1" />

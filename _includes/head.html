@@ -36,5 +36,21 @@
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+        /* Ensure the parent container has defined dimensions */
+        .parent-container {
+            width: 100%; /* or a specific width, e.g., 600px */
+            height: 600px; /* define the height */
+            position: relative; /* optional, for better layout control */
+            /*border: 1px solid #ccc; !* optional for visibility *!*/
+        }
+
+        /* Style the iframe to take full space */
+        .full-space-iframe {
+            width: 100%;
+            height: 100%;
+            border: none; /* remove the iframe's default border */
+        }
+    </style>
 
 </head>

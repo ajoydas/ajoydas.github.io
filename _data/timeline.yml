@@ -1,14 +1,14 @@
 - title: Senior Software Developer (Remote), <br/>Farmers Edge
   location: Calgary, AB, Canada
   from: Apr 2024
-  description: Leading various backend projects as well as working on the various AI/ML initiatives.
+  description: Promoted to Senior, leading backend development (Python/Django) for platform initiatives and system architecture improvements. Spearheading GenAI/ML explorations for agri-tech and continuing to enhance core services, including the authentication and authorization modules.
 
 
 - title: Software Developer (Remote), <br/>Farmers Edge
   location: Calgary, AB, Canada
   from: Aug 2023
   to: Mar 2024
-  description: Worked on the web services and data warehouse projects.
+  description: Rapidly onboarded, started to resolve complex tickets within a short time period. Designed and developed a highly extensible payment gateway integration. Contributed significantly to backend features and collaborated effectively with Product, UI, and BI teams.
 
 
 - title: Software Engineering Researcher,
@@ -17,9 +17,10 @@
   from: Jan 2021
   to: Jul 2023
   description:
-    In <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, <br/>
-    Dept. of Electrical & Computer Engineering, <br/>
-    Schulich School of Engineering, <br/>
+    Worked at <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>,
+    Dept. of Electrical & Software Engineering, under Schulich School of Engineering. 
+    Researched ML software fairness and system log analysis (including IBM-funded projects). Developed a Python data analysis package (Pandas, Scikit-learn) for Geothermal well data, building and deploying ML models for predictive insights.
+
 
 
 - title: Graduate Research and Teaching Assistant,
@@ -28,30 +29,17 @@
   from: Jan 2021
   to: Feb 2023
   description:
-    Studied M.Sc in Electrical and Computer Engineering (Specialization in Software Engineering), <br/>
-    <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, <br/>
-    Dept. of Electrical & Computer Engineering, <br/>
-    Schulich School of Engineering, <br/>
-    Supervised By- <a href="https://giasuddin.ca">Dr. Gias Uddin</a>, Assistant Professor.
+    Studied M.Sc in Software Engineering, <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, Dept. of Electrical & Software Engineering, under Schulich School of Engineering. Was supervised by- <a href="https://giasuddin.ca">Dr. Gias Uddin</a>, Assistant Professor.
 
 
 - title: Software Developer (Remote), <br/>ChainSafe Systems
   location: Toronto, ON, Canada
   from: May 2019
   to: Dec 2020
-  description: Built scalable microservice based web services,
-               <br/> Automated Blockchain based system deployment,
-               <br/> Worked in a great multi-cultural team (developers from Canada, India, Russia, USA, South Africa, etc).
+  description: Developed scalable microservices and blockchain solutions on AWS. Engineered backend for "ChainSafe Files" (Go, PostgreSQL, REST/gRPC, SQS) and contributed networking layer components (TypeScript) to "Lodestar," an Ethereum 2.0 client.
 
 - title: Graduate Research Assistant, <br/>Bangladesh University of Engineering & Technology
   location: Dhaka, Bangladesh
   from: Dec 2019
   to: June 2020
-  description: Dept. of Computer Science & Engineering, <br/>
-    Supervised By- <a href="http://mshohrabhossain.buet.ac.bd/">Dr. Md. Shohrab Hossain</a>, Professor
-
-#- title: Undergraduate Student, <br/>Bangladesh University of Engineering & Technology
-#  location: Dhaka, Bangladesh
-#  from: Feb 2015
-#  to: Apr 2019
-#  description: Dept. of Computer Science & Engineering
+  description: Worked at Dept. of Computer Science & Engineering, was supervised By- <a href="http://mshohrabhossain.buet.ac.bd/">Dr. Md. Shohrab Hossain</a>, Professor.
