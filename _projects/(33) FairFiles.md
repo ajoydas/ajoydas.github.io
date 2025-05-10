@@ -1,8 +1,8 @@
 ---
-name: FairFiles 
+name: FairFiles - A Fair Management App
 type: hobby 
 tools: [Android, JavaFx, Php]
-image: ../assets/img/fairfiles.png
+image: ../assets/img/projects/fairfiles.png
 description: An app for fair management. Was inspired by the necessity of management
              solution for large fairs like Ekushey Book Fair.
 external_url: 
@@ -21,7 +21,7 @@ external_url:
 </div>
 
 <div class="col-md-4">
-<img src="/assets/img/fairfiles.gif" alt="FairFiles"/>
+<img src="/assets/img/projects/fairfiles.gif" alt="FairFiles"/>
 </div>
 </div>
 

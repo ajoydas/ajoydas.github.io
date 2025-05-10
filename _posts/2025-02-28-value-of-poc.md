@@ -3,14 +3,11 @@ title: "The Value of Working on Proof of Concepts as a Developer 🌟"
 tags: [poc, software development, learning]
 style: border 
 color: secondary
-description: The value of working on Proof of Concepts (PoCs) as a developer.
-  How it helps in learning, experimenting, and growing in the field.
+description: 
 ---
 <br/>
-
-[//]: # (<img src="/assets/img/posts/devfestyyc24-cover.png" alt="DevFestYYC 2024" style="width: 100%; height: auto;"/>)
-
-[//]: # (<br/>)
+<img src="/assets/img/posts/poc-values-cover.png" alt="Values of PoC" style="width: 100%; height: auto;"/>
+<br/>
 
 I think one of the best ways to learn, experiment, and grow as a software developer is by working on Proof of Concepts (PoCs). Unlike production projects with tight constraints, PoCs give us the freedom to try new technologies, validate ideas, and push the boundaries of what we know.
 

@@ -3,13 +3,11 @@ title: "Reflecting on My 2024 Performance Goals 🔎"
 tags: [performance, goals, growth]
 style: border 
 color: warning
-description: Reflecting on my performance goals for 2024 and the progress I made.
+description: 
 ---
 <br/>
-
-[//]: # (<img src="/assets/img/posts/devfestyyc24-cover.png" alt="DevFestYYC 2024" style="width: 100%; height: auto;"/>)
-
-[//]: # (<br/>)
+<img src="/assets/img/posts/performance-2024-cover.png" alt="2024 Performance Goals" style="width: 100%; height: auto;"/>
+<br/>
 
 One of the things I truly appreciate about performance reviews is the structured opportunity to reflect on personal growth. Setting clear goals helped me stay focused, and looking back, I’m happy with the progress I’ve made toward the three key goals I set for 2024!
 <br/><br/>
