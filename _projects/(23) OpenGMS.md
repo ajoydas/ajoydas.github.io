@@ -2,7 +2,7 @@
 name:  OpenGMS - An Open Source Garments Management System
 type: hobby
 tools: [Django, ML, HTML, JS, Python, Heroku, AWS]
-image: ../assets/img/opengms.png 
+image: ../assets/img/projects/opengms.png 
 description: <ul>
              <li> Used Machine Learning to predict order finish time and sort unconfirmed orders.</li>
              <li> Automated CI and deployment to Heroku, hosted media files of the site in AWS S3.</li>
@@ -11,7 +11,7 @@ external_url:
 ---
 ### **{{page.name}}**
 <br/>
-<a class="github-button" href="https://github.com/ajoydas/OpenGMS" data-size="large" aria-label="View ajoydas/OpenGMS on GitHub">View Source Code on Github</a>
+<a class="github-button" href="https://github.com/ajoydas/OpenGMS" data-size="large" aria-label="View ajoydas/OpenGMS on GitHub">View Source Code on GitHub</a>
 <br/>
 
 {% include elements/video.html id="lpAHJlUJopg" %}

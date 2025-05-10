@@ -10,4 +10,4 @@ remote_projects:
 {%- assign project_dir = site.projects | where:"type","professional" -%}
 {% include projects/index.html %}
 
-... I have worked on many other projects. Can't mention all due to contract restrictions.
+... And many more projects that are not listed here. If you want to know more about my work, please feel free to reach out to me.

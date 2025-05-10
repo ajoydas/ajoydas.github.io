@@ -41,5 +41,17 @@ I believe in continuous learning and validating my expertise through industry-re
 **3. Okta Certified Customer Identity Cloud Developer**
 *   **Issued By:** Okta
 *   **Date Obtained:** April 2025
-*   **Description:** This certification validates the technical knowledge and skills required to implement identity solutions for customer-facing applications using Auth0 (Okta Customer Identity Cloud). It covers core concepts like implementing secure authentication flows (including Universal Login, social login, passwordless), managing users, applying authorization patterns (RBAC, permissions), securing APIs, and customizing the Auth0 platform using Actions, Hooks, and Rules. It signifies proficiency in modern identity protocols (OAuth 2.0, OpenID Connect) and best practices for securing applications and APIs with Auth0.
+*   **Description:** This certification validates the technical knowledge and skills required to implement identity solutions for customer-facing applications using Auth0. It covers core concepts like implementing secure authentication flows (including Universal Login, social login, passwordless), managing users, applying authorization patterns (RBAC, permissions), securing APIs, and customizing the Auth0 platform using Actions and Forms. It signifies proficiency in modern identity protocols (OAuth 2.0, OpenID Connect) and best practices for securing applications and APIs with Auth0.
+<br/>
+<br/>
+
+### **Teaching Certifications**
+<br/>
+<img src="/assets/img/certifications/grad-teaching.png" alt="Okta Developer Badge" width="150" height="170">
+<br/>
+
+**4. Graduate Student Certificate in University Teaching and Learning**
+*   **Issued By:** Taylor Institute for Teaching and Learning, University of Calgary, Canada
+*   **Date Obtained:** July 2022
+*   **Description:** This certificate program is designed to enhance the teaching skills of graduate students and postdoctoral scholars. It provides a comprehensive understanding of effective teaching practices, learning theories, and assessment strategies in higher education. The program includes workshops, seminars, and practical teaching experiences, equipping participants with the tools to create engaging and inclusive learning environments. It emphasizes the importance of reflective practice and continuous improvement in teaching methodologies.
 <br/>
