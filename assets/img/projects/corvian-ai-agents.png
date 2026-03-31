@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1a5276"/>
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle" font-weight="bold">Corvian</text>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="20" fill="#85c1e9" text-anchor="middle">AI Agents</text>
+  <text x="200" y="200" font-family="Arial, sans-serif" font-size="14" fill="#d5dbdb" text-anchor="middle">Agentic AI for Agricultural Data</text>
+  <rect x="140" y="230" width="120" height="35" rx="5" fill="#2ecc71"/>
+  <text x="200" y="253" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">Learn More</text>
+</svg>

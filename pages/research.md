@@ -24,16 +24,19 @@ I have previously worked as a researcher in the field of **Machine Learning**, *
     <div class="col-md-6">
     <ul>
         <li>Machine learning</li>
+        <li>Generative AI</li>
         <li>Responsible AI</li>
         <li>Software engineering</li>
         <li>System security</li>
     </ul>
     </div>
     <div class="col-md-6">
+        <ul>
         <li>Networking and network security</li>
         <li>Distributed systems</li>
         <li>Blockchain research</li>
         <li>Privacy research</li>
+        </ul>
     </div>
 </div>
 <br/>
@@ -45,8 +48,11 @@ I have previously worked as a researcher in the field of **Machine Learning**, *
 - Completed several research projects.
 
 <br/> 
-
 ### Publications
+- **Ajoy Das**, Gias Uddin, Shaiful Chowdhury, Mostafijur Rahman Akhond, Hadi Hemmati. 
+**_[Applications and Challenges of Fairness APIs in Machine Learning Software](https://dl.acm.org/doi/10.1145/3765735)_**. 
+In ACM Transactions on Software Engineering and Methodology (TOSEM), September 2025.
+- **Ajoy Das**, Gias Uddin, Guenther Ruhe. **_[An Empirical Study of Blockchain Repositories in GitHub.](https://dl.acm.org/doi/abs/10.1145/3530019.3530041)_** In the International Conference on Evaluation and Assessment in Software Engineering (EASE 2022), Sweden.
 - **Ajoy Das**, Kanak Das, and Md. Shohrab Hossain. 2020. 
 **_[An Integrated Inspection and Visualization Tool for Accurate Android Collusive 
 Malware Detection](https://dl.acm.org/doi/10.1145/3428363.3428376)_**. 
@@ -56,12 +62,11 @@ December 22–24, 2020, Dhaka, Bangladesh.
 **_[Prediction of Dengue Infected Areas using A Novel Blockchain based Crowdsourcing Framework](https://ieeexplore.ieee.org/document/9298036)_**. 
 In IEEE 11th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference 
 (IEEE UEMCON 2020), October 28-31, 2020, New York, USA.
-- **Ajoy Das**, Gias Uddin, Guenther Ruhe. **_[An Empirical Study of Blockchain Repositories in GitHub.](https://dl.acm.org/doi/abs/10.1145/3530019.3530041)_** In the International Conference on Evaluation and Assessment in Software Engineering (EASE 2022), Sweden.
 
 <br/>
 
 ### Projects
-- Detection and Mitigation of Bias in Machine Learning Software and Datasets (MSc Thesis): Studied the applications and challenges of fairness APIs in ML systems and developed a noble semi-automated tool for detecting and fixing data labeling inconsistency in sentiment analysis datasets.
+- Detection and Mitigation of Bias in Machine Learning Software and Datasets (MSc Thesis): Studied the applications and challenges of fairness APIs in ML systems and developed a noble semi-automated tool for detecting and fixing data labeling inconsistency in sentiment analysis datasets. **Published in ACM TOSEM 2025.**
 - Explainable Geothermal (XGeoML) Toolkit: As a member of the data science team, collaborated with industry partners to develop ML models to aid in Geothermal well drilling. Performed data analysis, tested various forecasting regression models; performed explainability analysis.
 - **AndroCap:** An Android Inter Component Communication based Collusive Malware Analysis 
 and Visualization Tool.

@@ -31,6 +31,7 @@ I enjoyed going over :ok_hand:
 - **The 7 Habits of Highly Effective People** / Stephen R. Covey
 - **Official Google Cloud Certified Professional Cloud Architect Study Guide** / Dan Sullivan
 - **Official Google Cloud Certified Professional Data Engineer Study Guide** / Dan Sullivan
+- **CKAD Study Guide: Certified Kubernetes Application Developer** / Benjamin Muschko
 
 ### Courses
 - **Cryptography I** / Dan Boneh 
@@ -42,5 +43,10 @@ I enjoyed going over :ok_hand:
 - **Software Defined Networking (SDN)** / David Bombal
 - **GNS3 Fundamentals** / David Bombal
 - **Introduction to LangGraph** / LangChain Academy
+
+### Workshops & Events
+- **Google Cloud Labs: Build Your Own AI Agent with ADK** / Google Cloud Calgary, 2025
+- **DevFest YYC 2024** / Google Developer Groups Calgary
+- **ES\|QL Workshop** / Elastic, 2024
 
 ... and many more :grin:

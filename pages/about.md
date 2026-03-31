@@ -7,7 +7,9 @@ weight: 12
 
 Hi, I am **Ajoy** :wave:
 Working as Senior Software Developer 
-at [Farmers Edge](https://farmersedge.ca/).  
+at [Corvian](https://corvian.com/).  
+
+I specialize in building **scalable cloud-native applications** with a focus on backend systems architecture, GenAI/agentic AI applications, and cloud infrastructure. My work spans designing microservices, building data pipelines, and developing AI-powered solutions — always with an eye on reliability, security, and developer experience.
 
 Please connect with me on [LinkedIn](https://linkedin.com/in/ajoy-das) or send an email at [ajoy@ajoydas.com](ajoy@ajoydas.com).
 <br/>

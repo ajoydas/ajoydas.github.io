@@ -6,3 +6,86 @@
 .dropdown:hover > .dropdown-menu {
   display: block;
 }
+
+/* Blog card cover images */
+.post.card .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Photography Gallery */
+.gallery-heading {
+  margin-bottom: 15px;
+}
+
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  padding: 10px 0;
+}
+
+a.photo-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a.photo-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+  text-decoration: none;
+}
+
+.photo-item img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.photo-item:hover img {
+  transform: scale(1.05);
+}
+
+.photo-caption {
+  display: block;
+  text-align: center;
+  padding: 8px 10px;
+  margin: 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  opacity: 0.8;
+  color: inherit;
+}
+
+/* Show More / pagination for photo galleries */
+a.photo-item.photo-hidden {
+  display: none;
+}
+
+.photo-gallery.expanded a.photo-item.photo-hidden {
+  display: block;
+}
+
+.btn-show-more {
+  background: transparent;
+  border: 1px solid #888;
+  color: inherit;
+  padding: 6px 20px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.btn-show-more:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: #aaa;
+}

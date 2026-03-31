@@ -1,21 +1,23 @@
 ### Site Settings ###
 title               : Ajoy Das
+url                 : "https://ajoydas.com"
 description         : >-
                       <b>Senior Software Developer</b> <br/>
-                      Web services and Data warehouse Team <br/>
-                      Farmers Edge, Canada 🇨🇦 <br/>
+                      Corvian, Canada 🇨🇦 <br/>
                       🌟 <br/>
-                      <b>Google Cloud Certified Professional </b> <br/>
-                      <b>Okta Certified Developer</b>
+                      <b>💻 Google Cloud Certified Professional </b> <br/>
+                      <b>☸️ Certified Kubernetes Application Developer</b> <br/>
+                      <b>🔐 Okta Certified Developer</b>
 baseurl             : ""                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ajoydas                 # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
-remote_theme        : yousinix/portfolYOU
+remote_theme        : yousinix/portfolYOU     # from https://github.com/yousinix/portfolYOU
 open_new_tab        : false                   # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
@@ -26,6 +28,7 @@ nav_exclude:                                            # The following paths ar
   - pages/projects/professional.md
   - pages/projects/hobby.md
   - pages/projects/coursework.md
+  - AGENTS.md
 
 
 ### Author Info ###

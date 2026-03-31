@@ -33,12 +33,25 @@ I believe in continuous learning and validating my expertise through industry-re
 <br/>
 <br/>
 
+### **Kubernetes Certifications**
+<br/>
+<img src="/assets/img/certifications/ckad-cert.png" alt="CKAD Badge" width="170" height="170">
+<br/>
+
+**3. Certified Kubernetes Application Developer (CKAD)**
+*   **Issued By:** The Linux Foundation / Cloud Native Computing Foundation (CNCF)
+*   **Date Obtained:** March 2026
+*   **Score:** 96%
+*   **Description:** This certification validates the ability to design, build, configure, and expose cloud-native applications for Kubernetes. It demonstrates proficiency in container development and deployment, application lifecycle management, resource management (auto-scaling, ConfigMaps, Secrets), networking (Services, Ingress, Network Policies), security (RBAC, Security Contexts), observability (Probes, Logging, Debugging), and storage management (Persistent Volumes). The hands-on, performance-based exam tests real-world troubleshooting and Kubernetes application development skills.
+<br/>
+<br/>
+
 ### **Identity and Access Management Certifications**
 <br/>
 <img src="/assets/img/certifications/okta-developer.jpg" alt="Okta Developer Badge" width="150" height="150">
 <br/>
 
-**3. Okta Certified Customer Identity Cloud Developer**
+**4. Okta Certified Customer Identity Cloud Developer**
 *   **Issued By:** Okta
 *   **Date Obtained:** April 2025
 *   **Description:** This certification validates the technical knowledge and skills required to implement identity solutions for customer-facing applications using Auth0. It covers core concepts like implementing secure authentication flows (including Universal Login, social login, passwordless), managing users, applying authorization patterns (RBAC, permissions), securing APIs, and customizing the Auth0 platform using Actions and Forms. It signifies proficiency in modern identity protocols (OAuth 2.0, OpenID Connect) and best practices for securing applications and APIs with Auth0.
@@ -50,7 +63,7 @@ I believe in continuous learning and validating my expertise through industry-re
 <img src="/assets/img/certifications/grad-teaching.png" alt="Okta Developer Badge" width="150" height="170">
 <br/>
 
-**4. Graduate Student Certificate in University Teaching and Learning**
+**5. Graduate Student Certificate in University Teaching and Learning**
 *   **Issued By:** Taylor Institute for Teaching and Learning, University of Calgary, Canada
 *   **Date Obtained:** July 2022
 *   **Description:** This certificate program is designed to enhance the teaching skills of graduate students and postdoctoral scholars. It provides a comprehensive understanding of effective teaching practices, learning theories, and assessment strategies in higher education. The program includes workshops, seminars, and practical teaching experiences, equipping participants with the tools to create engaging and inclusive learning environments. It emphasizes the importance of reflective practice and continuous improvement in teaching methodologies.

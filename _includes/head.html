@@ -15,10 +15,38 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
-  <meta property="og:image" content="{{ image }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ image }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/{{ image }}">
 
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
+
+  <!-- JSON-LD Person Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "image": "{{ site.url }}{{ site.baseurl }}/{{ site.author.image }}",
+    "jobTitle": "Senior Software Developer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Corvian"
+    },
+    "sameAs": [
+      "https://linkedin.com/in/{{ site.author.linkedin }}",
+      "https://github.com/{{ site.author.github }}",
+      "https://scholar.google.com/citations?{{ site.author.scholar }}"
+    ]
+  }
+  </script>
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
 
@@ -27,6 +55,11 @@
 
   <!-- Font Awesome CDN -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
+  {% if page.glightbox %}
+  <!-- GLightbox CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/css/glightbox.min.css">
+  {% endif %}
 
   <!-- Bootstrap CSS CDN -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
