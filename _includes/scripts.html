@@ -22,3 +22,33 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+
+{% if page.glightbox %}
+<!-- GLightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox@3.3.0/dist/js/glightbox.min.js"></script>
+<script>
+  const lightbox = GLightbox({
+    touchNavigation: true,
+    loop: true,
+    zoomable: true,
+    draggable: true,
+    openEffect: 'fade',
+    closeEffect: 'fade'
+  });
+
+  function toggleGallery(btn) {
+    var galleryId = btn.getAttribute('data-gallery');
+    var gallery = document.getElementById(galleryId);
+    if (gallery.classList.contains('expanded')) {
+      gallery.classList.remove('expanded');
+      var count = gallery.querySelectorAll('.photo-item').length;
+      btn.textContent = 'Show All (' + count + ' photos)';
+      gallery.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+      gallery.classList.add('expanded');
+      btn.textContent = 'Show Less';
+      lightbox.reload();
+    }
+  }
+</script>
+{% endif %}
