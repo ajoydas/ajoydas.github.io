@@ -6,10 +6,10 @@ weight: 8
 ---
 <br/>
 
-## **Research**
+## **Research** 🔬
 I have previously worked as a researcher in the field of **Machine Learning**, **Software Engineering**, **System Security**, and **Distributed Systems**.
 
-### Education
+### 🎓 Education
 - **MSc. in Software Engineering** (2021 - 2023, Thesis-based) <br/>
   University of Calgary, Canada 🇨🇦<br/>
   Thesis: Detection and Mitigation of Bias in Machine Learning Software and Datasets
@@ -19,7 +19,7 @@ I have previously worked as a researcher in the field of **Machine Learning**, *
 <br/>
 <br/>
 
-### Interests
+### 💡 Interests
 <div class="row">
     <div class="col-md-6">
     <ul>
@@ -41,14 +41,14 @@ I have previously worked as a researcher in the field of **Machine Learning**, *
 </div>
 <br/>
 
-### Experience
+### 💼 Experience
 - Worked as a **Graduate Research Assistant** at **University of Calgary**.
 - Worked as a **Graduate Research Assistant** at **Bangladesh University of 
   Engineering & Technology** under the **Innovation Fund** program.
 - Completed several research projects.
 
 <br/> 
-### Publications
+### 📄 Publications
 - **Ajoy Das**, Gias Uddin, Shaiful Chowdhury, Mostafijur Rahman Akhond, Hadi Hemmati. 
 **_[Applications and Challenges of Fairness APIs in Machine Learning Software](https://dl.acm.org/doi/10.1145/3765735)_**. 
 In ACM Transactions on Software Engineering and Methodology (TOSEM), September 2025.
@@ -65,7 +65,7 @@ In IEEE 11th Annual Ubiquitous Computing, Electronics & Mobile Communication Con
 
 <br/>
 
-### Projects
+### 🧪 Projects
 - Detection and Mitigation of Bias in Machine Learning Software and Datasets (MSc Thesis): Studied the applications and challenges of fairness APIs in ML systems and developed a noble semi-automated tool for detecting and fixing data labeling inconsistency in sentiment analysis datasets. **Published in ACM TOSEM 2025.**
 - Explainable Geothermal (XGeoML) Toolkit: As a member of the data science team, collaborated with industry partners to develop ML models to aid in Geothermal well drilling. Performed data analysis, tested various forecasting regression models; performed explainability analysis.
 - **AndroCap:** An Android Inter Component Communication based Collusive Malware Analysis 

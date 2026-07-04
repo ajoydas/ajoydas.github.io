@@ -4,7 +4,7 @@ title: Hobby Projects
 permalink: /hobby-projects/
 remote_projects: 
 ---
-## **Hobby/Pet Projects**
+## **Hobby/Pet Projects** 🎨
 
 {%- assign project_dir = site.projects | where:"type","hobby" -%}
 {% include projects/index.html %}

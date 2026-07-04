@@ -5,13 +5,13 @@ permalink: /certifications/
 weight: 5
 ---
 <br/>
-## **Professional Certifications**
+## **Professional Certifications** 📜
 
 I believe in continuous learning and validating my expertise through industry-recognized credentials. Below are the professional certifications I have earned, reflecting my commitment to mastering key technologies in cloud computing, data engineering, and identity management.
 <br/>
 <br/>
 
-#### **Google Cloud Platform (GCP) Certifications**
+### ☁️ **Google Cloud Platform (GCP) Certifications**
 <br/>
 <img src="/assets/img/certifications/gcp-architect.png" alt="GCP Cloud Architect Badge" width="150" height="150">
 <br/>
@@ -33,7 +33,7 @@ I believe in continuous learning and validating my expertise through industry-re
 <br/>
 <br/>
 
-### **Kubernetes Certifications**
+### ☸️ **Kubernetes Certifications**
 <br/>
 <img src="/assets/img/certifications/ckad-cert.png" alt="CKAD Badge" width="170" height="170">
 <br/>
@@ -46,7 +46,7 @@ I believe in continuous learning and validating my expertise through industry-re
 <br/>
 <br/>
 
-### **Identity and Access Management Certifications**
+### 🔐 **Identity and Access Management Certifications**
 <br/>
 <img src="/assets/img/certifications/okta-developer.jpg" alt="Okta Developer Badge" width="150" height="150">
 <br/>
@@ -58,7 +58,7 @@ I believe in continuous learning and validating my expertise through industry-re
 <br/>
 <br/>
 
-### **Teaching Certifications**
+### 🎓 **Teaching Certifications**
 <br/>
 <img src="/assets/img/certifications/grad-teaching.png" alt="Okta Developer Badge" width="150" height="170">
 <br/>

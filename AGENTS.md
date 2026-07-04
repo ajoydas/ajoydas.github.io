@@ -76,15 +76,22 @@ Serves at `http://localhost:4000`. The `--watch` flag enables auto-regeneration 
 **Blog Posts** (`_posts/`):
 ```yaml
 ---
-title: "Post Title"
-tags: [tag1, tag2]
-style: border
-color: primary  # primary|success|info|warning|danger|secondary
-description:
+title: "Post Title 🚀"       # double-quote if it contains a colon or emoji; titles usually end with an emoji
+tags: [tag1, tag2, tag3]     # 3-5 short tags, lowercase except proper nouns (e.g., ADK, AI agents, LangGraph)
+style: border                # always `border` (existing posts keep a trailing space after the value)
+color: primary               # see color semantics below
+description:                 # left empty by convention
 ---
 ```
 - File naming: `YYYY-MM-DD-slug.md`
-- Cover images go in `assets/img/posts/` and are referenced as `/assets/img/posts/filename.png`
+- Color semantics: `success` = achievements/certifications, `primary` = technical/AI posts, `info` = conference/event recaps, `secondary` = conceptual deep-dives/syntheses, `warning` = retrospectives/reflections
+- Body house style:
+  - Open with a cover image block: `<br/>` + `<img src="/assets/img/posts/<name>.png" alt="..." style="width: 100%; height: auto;"/>` + `<br/>`
+  - First-person voice with generous emoji use; `####` headers structure longer posts; `**bold**` for names of people, companies, and products
+  - Close with a gratitude line (🙏) and/or a forward-looking sentence
+  - No `#hashtag` lines in the body — use front-matter `tags` instead; no "share on LinkedIn" CTA links (older posts have them; new posts should not)
+  - When adapting LinkedIn drafts: keep the emojis, drop hashtag lines and `<aside>` publishing-metadata blocks
+- Cover images go in `assets/img/posts/` and are referenced as `/assets/img/posts/filename.png`; naming: `<topic>-cover.png` for designed covers, `<topic>-1.jpeg`/`<topic>-2.jpeg` for photos
 - The first `<img>` tag in a post is automatically extracted and used as the blog card cover image (via `_includes/blog/post-card.html`)
 
 **Projects** (`_projects/`):
@@ -103,6 +110,7 @@ external_url: https://example.com
 **Pages** (`pages/`):
 - Front matter includes `weight` for navbar ordering (lower weight = appears earlier)
 - Pages listed in `nav_exclude` in `_config.yml` are hidden from the navbar
+- `activities.md` sections are ordered: Workshops & Events (first), then Books, then Courses
 
 **Photography** (`_data/photos.yml`):
 - Data-driven page: all photo metadata is in `_data/photos.yml`, template is in `pages/photography.md`
@@ -168,6 +176,7 @@ There is **no CI/CD pipeline** configured. The site is deployed automatically by
 - The landing page (`pages/index.md`) uses `{% include landing.html %}` — this is now a **local override** in `_includes/landing.html` (not the remote theme version).
 - Google Analytics is enabled (`G-3BD4D1PDK3`). The tracking ID is in `_config.yml`.
 - The `jemoji` plugin is enabled for GitHub-style emoji support in markdown.
+- The `github-pages` gem builds with `future: true`, so future-dated posts render immediately on the next push-triggered build — post dates never delay publication.
 - The `jekyll-sitemap` plugin generates `/sitemap.xml` automatically.
 - Custom CSS for the photography gallery, blog cards, and show-more pagination is in `assets/css/style.scss`.
 - The photography page uses **CSS specificity** `a.photo-item.photo-hidden` to override the base `a.photo-item { display: block }` rule for the show-more feature.

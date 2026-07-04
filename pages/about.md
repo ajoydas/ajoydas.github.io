@@ -18,7 +18,7 @@ Please connect with me on [LinkedIn](https://linkedin.com/in/ajoy-das) or send a
 
 <br/>
 
-### Experience
+### 💼 Experience
 <div class="row">
 {% include about/timeline.html %}
 </div>

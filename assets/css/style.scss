@@ -89,3 +89,16 @@ a.photo-item.photo-hidden {
   background: rgba(255, 255, 255, 0.1);
   border-color: #aaa;
 }
+
+/* Tech badges (skills page) */
+.tech-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.tech-badges img {
+  height: 28px;
+}
+

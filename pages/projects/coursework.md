@@ -4,7 +4,7 @@ title: CourseWorks
 permalink: /course-works/
 remote_projects: 
 ---
-## **CourseWorks**
+## **CourseWorks** 📝
 
 {%- assign project_dir = site.projects | where:"type","coursework" -%}
 {% include projects/index.html %}

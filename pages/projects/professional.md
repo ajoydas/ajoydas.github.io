@@ -5,7 +5,7 @@ permalink: /professional-projects/
 remote_projects: 
 ---
 
-## **Professional Projects**
+## **Professional Projects** 💼
 
 {%- assign project_dir = site.projects | where:"type","professional" -%}
 {% include projects/index.html %}
