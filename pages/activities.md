@@ -12,6 +12,12 @@ topics that I may never use :grin: Here I are some resources that
 I enjoyed going over :ok_hand:
 <br/>
 
+### Workshops & Events
+- **Google Cloud Next 2026** / Google Cloud, Las Vegas
+- **Google Cloud Labs: Build Your Own AI Agent with ADK** / Google Cloud Calgary, 2025
+- **DevFest YYC 2024** / Google Developer Groups Calgary
+- **ES\|QL Workshop** / Elastic, 2024
+
 ### Books
 - **Designing Data-Intensive Applications** / Martin Kleppmann
 - **Sapiens: A Brief History of Humankind** / Yuval Noah Harari 
@@ -43,10 +49,5 @@ I enjoyed going over :ok_hand:
 - **Software Defined Networking (SDN)** / David Bombal
 - **GNS3 Fundamentals** / David Bombal
 - **Introduction to LangGraph** / LangChain Academy
-
-### Workshops & Events
-- **Google Cloud Labs: Build Your Own AI Agent with ADK** / Google Cloud Calgary, 2025
-- **DevFest YYC 2024** / Google Developer Groups Calgary
-- **ES\|QL Workshop** / Elastic, 2024
 
 ... and many more :grin:

@@ -1,0 +1,3 @@
+[submodule "ajoydas"]
+	path = ajoydas
+	url = https://github.com/ajoydas/ajoydas.git

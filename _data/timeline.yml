@@ -1,11 +1,11 @@
-- title: Senior Software Developer, <br/>Corvian (formerly Farmers Edge)
-  location: Calgary, AB, Canada
+- title: Senior Software Developer, <br/>Corvian
+  location: Calgary, AB, Canada (Remote)
   from: Apr 2024
-  description: Lead developer of Corvian AI Agents — an agentic AI solution for transforming handwritten farm records into structured enterprise data. Architecting multi-agent systems (LangGraph/LangChain), leading backend development (Python/Django/FastAPI), and driving GenAI innovations for agri-tech enterprise clients. CKAD certified.
+  description: Lead developer of Corvian AI Agents — an agentic AI solution for transforming handwritten farm records into structured enterprise data. Architecting multi-agent systems (LangGraph/LangChain), leading backend development (Python/Django/FastAPI), building event-driven integrations on GCP (Cloud Functions, Pub/Sub), and driving GenAI innovations for agri-tech enterprise clients. CKAD certified.
 
 
 - title: Software Developer, <br/>Farmers Edge (now Corvian)
-  location: Calgary, AB, Canada
+  location: Calgary, AB, Canada (Remote)
   from: Aug 2023
   to: Mar 2024
   description: Rapidly onboarded, started to resolve complex tickets within a short time period. Designed and developed a highly extensible payment gateway integration. Contributed significantly to backend features and collaborated effectively with Product, UI, and BI teams.
@@ -32,8 +32,8 @@
     Studied M.Sc in Software Engineering, <a href="https://giasuddin.ca/disa-lab/">Data Intensive Software Analytics (DISA) Lab</a>, Dept. of Electrical & Software Engineering, under Schulich School of Engineering. Was supervised by- <a href="https://giasuddin.ca">Dr. Gias Uddin</a>, Assistant Professor.
 
 
-- title: Software Developer (Remote), <br/>ChainSafe Systems
-  location: Toronto, ON, Canada
+- title: Software Developer, <br/>ChainSafe Systems
+  location: Toronto, ON, Canada (Remote)
   from: May 2019
   to: Dec 2020
   description: Developed scalable microservices and blockchain solutions on AWS. Engineered backend for "ChainSafe Files" (Go, PostgreSQL, REST/gRPC, SQS) and contributed networking layer components (TypeScript) to "Lodestar," an Ethereum 2.0 client.

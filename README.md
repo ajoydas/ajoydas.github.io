@@ -2,7 +2,7 @@
 
 Personal portfolio and blog built with [Jekyll](https://jekyllrb.com/) and the [portfolYOU](https://github.com/yousinix/portfolYOU) theme, hosted on [GitHub Pages](https://pages.github.com/).
 
-**Live site:** [ajoydas.github.io](https://ajoydas.github.io)
+**Live site:** [ajoydas.com](https://ajoydas.com)
 
 ## Tech Stack
 
@@ -65,15 +65,17 @@ The site will be available at `http://localhost:4000`. Changes to most files aut
 2. Add front matter:
    ```yaml
    ---
-   title: Your Post Title
-   tags: [tag1, tag2]
-   style: fill  # or border
-   color: primary  # primary, secondary, success, danger, warning, info, light, dark
-   description: Short description for the card
+   title: "Your Post Title 🚀"
+   tags: [tag1, tag2, tag3]
+   style: border
+   color: primary  # success = achievements, info = event recaps, primary = technical, secondary = deep-dives, warning = retrospectives
+   description:    # left empty by convention
    ---
    ```
 3. Write content in Markdown below the front matter
 4. To add a cover image, include an `<img>` tag early in the post — the first image is automatically used as the blog card cover
+
+See the **Content Conventions** section in `AGENTS.md` for the full blog-post house style (voice, emoji, image naming, structure).
 
 ### Update an existing page
 

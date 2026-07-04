@@ -11,9 +11,10 @@ Here's an overview of my core technical competencies and the technologies I leve
 
 #### **Core Competencies**
 
+*   **Generative AI & Agentic Systems:** Designing and shipping production agentic AI applications — lead developer of Corvian AI Agents, a multi-agent system (LangGraph/LangChain) that transforms handwritten farm records into structured enterprise data. Experienced with LLM integration, agent orchestration patterns (including Google ADK), Document AI, and AI-assisted development workflows (Claude Code, GitHub Copilot).
 *   **Backend Development & System Architecture:** Designing, building, and optimizing scalable and maintainable server-side applications, APIs (REST, gRPC), and microservices, primarily using Python and Go. Experienced in leading end-to-end development cycles from requirements gathering to deployment.
-*   **Cloud Engineering & DevOps:** Architecting, deploying, and managing applications on cloud platforms (GCP & AWS). Proficient in containerization (Docker), orchestration (Kubernetes), CI/CD pipelines, infrastructure-as-code principles, and Linux system administration. **(GCP Certified Professional Cloud Architect & Data Engineer, CKAD Certified)**
-*   **Data Engineering & Machine Learning:** Developing data processing pipelines, performing large-scale data analysis (Pandas, Spark), building and deploying machine learning models (Scikit-learn, Keras), and exploring GenAI applications (LLMs, multi-agent systems, agentic AI development).
+*   **Cloud Engineering & DevOps:** Architecting, deploying, and managing applications on cloud platforms (GCP & AWS), including event-driven and serverless architectures (Cloud Functions, Pub/Sub). Proficient in containerization (Docker), orchestration (Kubernetes), CI/CD pipelines, infrastructure-as-code principles, and Linux system administration. **(GCP Certified Professional Cloud Architect & Data Engineer, CKAD Certified)**
+*   **Data Engineering & Machine Learning:** Developing data processing pipelines, performing large-scale data analysis (Pandas, Spark), and building and deploying machine learning models (Scikit-learn, Keras).
 *   **Database Design & Management:** Working with relational (PostgreSQL, MySQL) and NoSQL (MongoDB) databases, including data modeling, query optimization, and ORM usage. Experience with search technologies like Elasticsearch.
 *   **Identity & Access Management (IAM):** Implementing secure authentication and authorization solutions using modern protocols and platforms like Auth0 and OpenFGA. **(Okta Certified Customer Identity Cloud Developer)**
 *   **Full Software Development Lifecycle:** Experienced in requirements analysis, system design, prototyping, implementation, unit/integration testing, code review, deployment, and monitoring within Agile/Scrum methodologies.
@@ -22,9 +23,14 @@ Here's an overview of my core technical competencies and the technologies I leve
 #### **Technologies & Tools**
 
 **Cloud Platforms & Services:**
-*   **Google Cloud Platform (GCP):** Compute Engine, Kubernetes Engine (GKE), Cloud SQL, BigQuery, Dataflow, Vertex AI, Cloud Functions, Pub/Sub
+*   **Google Cloud Platform (GCP):** Cloud Functions, Pub/Sub, Kubernetes Engine (GKE), BigQuery, Vertex AI, Compute Engine, Cloud SQL, Dataflow
 *   **Amazon Web Services (AWS):** EC2, SQS, Lambda, S3, RDS
 *   **Platform-as-a-Service (PaaS):** Heroku, DigitalOcean
+
+**Generative AI & Agentic AI:**
+*   **Agent Frameworks & Orchestration:** LangChain, LangGraph, Google ADK, Multi-Agent Systems, Model Context Protocol (MCP)
+*   **LLM Tooling & Services:** LLMs, Document AI, Dialogflow, Vertex AI
+*   **AI-Assisted Development:** Claude Code, GitHub Copilot
 
 **Languages:**
 *   **Primary:** Python, Go
@@ -45,7 +51,6 @@ Here's an overview of my core technical competencies and the technologies I leve
 **Data Engineering & Machine Learning:**
 *   **Libraries:** Pandas, NumPy, Scikit-learn, Keras, TensorFlow, PyTorch, Apache Spark
 *   **Tools:** Jupyter Notebook
-*   **GenAI/Agentic AI:** LLMs, Dialogflow, Agent Frameworks (LangChain, LangGraph, Google ADK), Multi-Agent Systems, Document AI
 *   **Visualization:** Matplotlib, Seaborn, Tableau
 
 **DevOps & Infrastructure:**
