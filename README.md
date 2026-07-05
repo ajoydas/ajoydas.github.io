@@ -34,7 +34,6 @@ scripts/             # Utility scripts (photo processing)
 ```
 
 ## Local Development
-
 ### Prerequisites
 
 - Ruby (3.x recommended)
