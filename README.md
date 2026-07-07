@@ -136,3 +136,4 @@ Push to the `main` branch — GitHub Pages automatically builds and deploys the 
 
 Blog content and photographs © Ajoy Das. All rights reserved.  
 The portfolYOU theme is licensed under [MIT](https://github.com/yousinix/portfolYOU/blob/master/LICENSE).
+
